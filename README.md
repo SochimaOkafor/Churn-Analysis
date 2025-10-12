@@ -8,7 +8,7 @@
 - [Results](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#results)
 - [Conclusions](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#conclusions)
 - [Tools and Technologies Used](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#tools-and-technologies-used)
-# Introduction
+# Introduction 
 Customer churn represents the percentage of customers who stop using a company’s product or service during a specific period. Understanding why customers churn is essential for improving retention strategies and increasing profitability.
 
 This project aims to analyze customer churn patterns, identify key factors influencing churn, and provide actionable insights using SQL, Python, and Power BI.
