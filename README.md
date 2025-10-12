@@ -1,12 +1,13 @@
 # Churn-Analysis
 # Table of Content
-- [Introduction]
-- [Dashboard]
-- [Data Sources]
-- [Data Preprocessing]
-- [Analysis Methods]
-- [Results]
-- [Conclusions]
+- [Introduction](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#introduction)
+- [Dashboard](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#dashboard)
+- [Data Sources](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#data-sources)
+- [Data Preprocessing](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#data-preprocessing)
+- [Analysis Methods](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#analysis-methods)
+- [Results](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#results)
+- [Conclusions](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#conclusions)
+- [Tools and Technologies Used](https://github.com/SochimaOkafor/Churn-Analysis/edit/main/README.md#tools-and-technologies-used)
 # Introduction
 Customer churn represents the percentage of customers who stop using a company’s product or service during a specific period. Understanding why customers churn is essential for improving retention strategies and increasing profitability.
 
