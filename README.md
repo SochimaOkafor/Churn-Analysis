@@ -44,7 +44,7 @@ The data preprocessing phase involved multiple steps to ensure data quality and 
 
 
 4. **Data Transformation (Python):**
-- Applied transformations using pandas and numpy.
+- Applied transformations using matplotlib and numpy.
 - Normalized numerical columns where required.
 ![Screenshot 2025-12-01 112344](https://github.com/user-attachments/assets/84dadc04-e99d-444a-9834-0426db22bbde)
 
