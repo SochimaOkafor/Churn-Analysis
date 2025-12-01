@@ -36,7 +36,7 @@ The data preprocessing phase involved multiple steps to ensure data quality and 
 - Encoded categorical variables for modeling.
 
 3. **Exploratory SQL Queries:**
-- Used SQL to explore key churn indicators (e.g., churn rate by contract type, payment method, and internet service).
+- Used SQL to explore key churn indicators.
 
 4. **Data Transformation (Python):**
 - Applied transformations using pandas and numpy.
