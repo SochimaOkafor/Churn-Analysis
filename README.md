@@ -31,16 +31,23 @@ The data preprocessing phase involved multiple steps to ensure data quality and 
 - Handled missing values and duplicates.
 - Standardized column names for consistency.
 - Converted categorical variables to appropriate formats.
+![Screenshot 2025-12-01 112107](https://github.com/user-attachments/assets/0e4de997-7436-4558-9e22-9af623e42849)
+
 2. **Feature Engineering:**
 - Created new metrics such as average monthly spend and tenure groupings.
 - Encoded categorical variables for modeling.
+![Screenshot 2025-12-01 111459](https://github.com/user-attachments/assets/81f0ca53-16e4-4106-a17a-b12cb2cba87f)
 
 3. **Exploratory SQL Queries:**
 - Used SQL to explore key churn indicators.
+![Screenshot 2025-12-01 113842](https://github.com/user-attachments/assets/37295426-d338-4a4a-9b41-6b4aff626d3f)
+
 
 4. **Data Transformation (Python):**
 - Applied transformations using pandas and numpy.
 - Normalized numerical columns where required.
+![Screenshot 2025-12-01 112344](https://github.com/user-attachments/assets/84dadc04-e99d-444a-9834-0426db22bbde)
+
 
 # Analysis Methods
 This project used a combination of SQL, Python, and Power BI for a comprehensive churn analysis workflow.
